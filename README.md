@@ -1,7 +1,7 @@
 # GloboTicket Demo Application
 
 This application is intended to demonstrate how to deploy an ASP.NET core application to Kubernetes.
-# Converts Marcel de Vries 'Deploying ASP.NET Core 6 Using Kubernetes' code .NET 8 version
+# Converts Marcel de Vries 'Deploying ASP.NET Core 6 Using Kubernetes' code to .NET 8 version
 It is the demo project for the Pluralsight course: Deploying ASP.NET Core 6 Using Kubernetes by Marcel de Vries (https://app.pluralsight.com/library/courses/asp-dot-net-core-6-kubernetes/table-of-contents) 
 
 ## Branches
