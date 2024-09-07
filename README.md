@@ -30,7 +30,7 @@ for this we will improve the obeservability, use of environment variables and ma
 the final step is we will deploy each individual service using CI/CD automation with GitHub Actions or Azure DevOps pipelines.
 
 ## Main Branch
-![properties diagram](images/Run Main branch setting.png)
+![properties diagram](images/Run-Main-branch-setting.png)
 
 
 
